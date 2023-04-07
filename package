@@ -1,0 +1,12 @@
+{
+	"name":"mymodule",
+	"version":"0.0.1",
+	"description":"total marks",
+	"main":"modfle",
+	"dependencies":{
+	}
+	"repository":{
+		"type":"git",
+		"url":"https://github.com/budatipranavi/mymodule"
+	}
+}
